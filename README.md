@@ -1,4 +1,4 @@
-Let's revise the plan to fit your timeline, starting from your current sophomore status and leading up to your graduation in Spring 2026.
+
 
 ### **Bachelor's Degree in Computer Science (Total Needed: 31 more credits)**
 - **Depth**: 6/15 credits (Need 9 more credits)
@@ -58,4 +58,4 @@ Let's revise the plan to fit your timeline, starting from your current sophomore
 - **Math Undergrad**: 9/9 credits above 2800 completed
 - **Graduate CS**: 30/30 credits completed
 
-This updated plan outlines your academic progression from Summer 2024 through Spring 2026, ensuring all degree requirements are met by your expected graduation date.
+
