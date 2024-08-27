@@ -17,20 +17,20 @@
 
 ---
 
-### **Summer 2024 (4 credits)**
-- **ECE 4353**: 4 credits (Counts for CS depth 10/15)
+### **Summer 2024 (3 credits)**
+- **Open**: 3 credits (Counts for open depth 16/20)
 
-### **Fall 2024 (18 credits)**
+### **Fall 2024 (16 credits)**
 - **CS 3250 - Algorithms**: Completes Core (25/25)
 - **CS 3892 - AI project**: Completes Project (3/3)
 - **CS Seminar**: Completes Seminar (1/1)
-- **PHYS 3651**: Open Electives (15/20)
 - **CS 8395 - Advanced Software Engineering**: Grad (3/30)
 - **CS 6363 - Advanced Machine Learning**: Grad (6/30)
-- **Physics Research**: 2 credits (Open Electives 17/20)
+- **Physics Research**: 3 credits (Open Electives 18/20)
 
 ### **Spring 2025 (15 credits)**
 - **Math 3630 - Math Modeling**: Tech Elective (6/6), Math Need (6 credits)
+- **Math other** math need 3
 - **CS 4260 AI**: Depth (13/15)
 - **CS 6377 - Embedded Systems**: Grad (9/30)
 - **CS 6315 - Automated Verification**: Grad (12/30)
